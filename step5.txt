@@ -1,0 +1,22 @@
+Step 1: Calculate the Average Time
+Average time taken: 3 minutes 12 seconds
+
+
+Step 2: Arrange Times in Order
+Times arranged in order from shortest to longest.
+
+
+Step 3: Find the Median Time
+Median time taken: 2 minutes 15 seconds
+
+
+Step 4: Compare Average and Median
+Average (3:12) > Median (2:15)
+
+
+Step 5: Interpret Results
+The data is slightly skewed, with some users taking longer than average to complete the task.
+
+
+Result:
+The average time taken is 3 minutes 12 seconds, and the median time taken is 2 minutes 15 seconds. The data is slightly skewed.

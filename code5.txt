@@ -1,0 +1,12 @@
+import matplotlib.pyplot as plt
+
+# Data
+time_taken = ['0-1 min', '1-2 min', '2-3 min', '3-5 min', '5+ min']
+frequency = [20, 30, 25, 15, 10]
+
+# Create bar chart
+plt.bar(time_taken, frequency)
+plt.xlabel('Time Taken')
+plt.ylabel('Frequency')
+plt.title('Time Taken to Send Message after Sign Up')
+plt.show()
